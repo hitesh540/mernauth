@@ -1,0 +1,19 @@
+PATCH http://localhost:5001/user/update_user
+Content-Type: application/json
+
+{
+   
+     "id" : "6055df6dcf32af2c14c6813a",
+     "phone":"7777777777"
+    
+}
+
+# POST http://localhost:5001/user/login
+# Content-Type: application/json
+
+# {
+    
+#      "username" : "johngo",
+#     "password":"111111"
+    
+# }
